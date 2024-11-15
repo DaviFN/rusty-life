@@ -1,7 +1,7 @@
 # rusty-life
 Conway's Game of Life in immediate-mode GUI for the web
 
-##Features:
+## Features:
 * Custom board dimensions and display
 * Customizing the board by simply clicking on it
 * Board randomization with adjustable probability
@@ -10,7 +10,7 @@ Conway's Game of Life in immediate-mode GUI for the web
 
 ![Sample image](sample_image.png)
 
-##To build:
+## To build:
 Run "cargo build" or "cargo build --release" for the *desktop* build
 Run "trunk serve" or "trunk serve --release" for the *web* build (requires [trunk](https://github.com/trunk-rs/trunk))
 
