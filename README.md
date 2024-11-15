@@ -13,7 +13,7 @@ A live version can be accessed [here](https://rustylife.netlify.app/)
 ![Sample image](sample_image.png)
 
 ## To build:
-Run "cargo build" or "cargo build --release" for the *desktop* build
-Run "trunk serve" or "trunk serve --release" for the *web* build (requires [trunk](https://github.com/trunk-rs/trunk))
+* Run "cargo build" or "cargo build --release" for the *desktop* build
+* Run "trunk serve" or "trunk serve --release" for the *web* build (requires [trunk](https://github.com/trunk-rs/trunk))
 
 Suggestions/contributions are welcome!
