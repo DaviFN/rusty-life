@@ -1,6 +1,8 @@
 # rusty-life
 Conway's Game of Life in immediate-mode GUI for the web
 
+A live version can be accessed [here](https://rustylife.netlify.app/)
+
 ## Features:
 * Custom board dimensions and display
 * Customizing the board by simply clicking on it
