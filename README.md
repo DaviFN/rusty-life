@@ -10,7 +10,11 @@ A live version can be accessed [here](https://rustylife.netlify.app/)
 * Option to make cells at the extremes of the board adjacent to one another, which can, for instance, make [gliders](https://conwaylife.com/wiki/Glider) propel indefinitely (active by default)
 * Batch-advancing the simulation a certain number of generations
 
+## Demonstration
+
 ![Sample image](sample_image.png)
+
+[![Video demonstration](https://img.youtube.com/vi/MZE6ZtSMzG4/0.jpg)](https://www.youtube.com/watch?v=MZE6ZtSMzG4)
 
 ## To build:
 * Run "cargo build" or "cargo build --release" for the *desktop* build
