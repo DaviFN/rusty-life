@@ -12,8 +12,10 @@ A live version can be accessed [here](https://rustylife.netlify.app/)
 
 ## Demonstration
 
+### Sample image:
 ![Sample image](sample_image.png)
 
+### Demo video:
 [![Video demonstration](https://img.youtube.com/vi/MZE6ZtSMzG4/0.jpg)](https://www.youtube.com/watch?v=MZE6ZtSMzG4)
 
 ## To build:
